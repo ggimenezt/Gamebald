@@ -22,7 +22,7 @@ O projeto Gamebald é uma aplicação web desenvolvida para proporcionar uma exp
 
 Um dos principais recursos do Gamebald é a capacidade dos usuários de criar avaliações para os jogos disponíveis no banco de dados da aplicação. Cada avaliação consiste em uma nota para o jogo, variando de 1 a 5, e um status que representa o estado atual em que o usuário se encontra em relação ao jogo, como "Jogando", "Quero Jogar", "Não Aguento Mais" ou "Completo". Os usuários também podem adicionar outros usuários como amigos na plataforma, permitindo uma interação social dentro da comunidade do Gamebald.
 
-Além dessas funcionalidades, a aplicação oferece aos usuários a capacidade de consultar uma lista completa de jogos disponíveis no banco de dados e filtrá-la com base nos status definidos pelo usuário. Isso permite que os usuários encontrem jogos que estão jogando, que desejam jogar ou que já concluíram, facilitando a descoberta de novos jogos e a interação com outros usuários com gostos similares.
+Além dessas funcionalidades, a aplicação oferece aos usuários a capacidade de consultar uma lista completa de jogos disponíveis no banco de dados e filtrá-la com base nos status definidos pelo usuário, também podendo ver a média de sua nota. Isso permite que os usuários encontrem jogos que estão jogando, que desejam jogar ou que já concluíram, facilitando a descoberta de novos jogos e a interação com outros usuários com gostos similares.
 
 As tecnologias utilizadas no desenvolvimento do Gamebald são as seguintes:
 
