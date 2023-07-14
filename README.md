@@ -22,7 +22,7 @@ O projeto Gamebald é uma aplicação web desenvolvida para proporcionar uma exp
 
 Um dos principais recursos do Gamebald é a capacidade dos usuários de criar avaliações para os jogos disponíveis no banco de dados da aplicação. Cada avaliação consiste em uma nota para o jogo, variando de 1 a 5, e um status que representa o estado atual em que o usuário se encontra em relação ao jogo, como "Jogando", "Quero Jogar", "Não Aguento Mais" ou "Completo". Os usuários também podem adicionar outros usuários como amigos na plataforma, permitindo uma interação social dentro da comunidade do Gamebald.
 
-Além dessas funcionalidades, a aplicação oferece aos usuários a capacidade de consultar uma lista completa de jogos disponíveis no banco de dados e filtrá-la com base nos status definidos pelo usuário. Isso permite que os usuários encontrem jogos que estão jogando, que desejam jogar ou que já concluíram, facilitando a descoberta de novos jogos e a interação com outros usuários com gostos similares.
+Além dessas funcionalidades, a aplicação oferece aos usuários a capacidade de consultar uma lista completa de jogos disponíveis no banco de dados e filtrá-la com base nos status definidos pelo usuário, também podendo ver a média de sua nota. Isso permite que os usuários encontrem jogos que estão jogando, que desejam jogar ou que já concluíram, facilitando a descoberta de novos jogos e a interação com outros usuários com gostos similares.
 
 As tecnologias utilizadas no desenvolvimento do Gamebald são as seguintes:
 
@@ -44,6 +44,3 @@ O problema que o Gamebald busca resolver é importante por vários motivos. Em p
 Além disso, o aspecto social da plataforma é crucial para criar uma comunidade vibrante de jogadores. Ao permitir que os usuários adicionem amigos, compartilhem suas avaliações e descubram novos jogos com base nas recomendações da comunidade, o Gamebald promove a interação entre os jogadores e enriquece sua experiência de jogo. A capacidade de se conectar com outros jogadores com gostos semelhantes pode levar a discussões interessantes, colaborações e a descoberta de novos jogos que talvez não fossem encontrados de outra forma.
 
 Por fim, a coleta de avaliações dos usuários sobre os jogos cria um recurso valioso para a comunidade de jogadores em geral. Ao reunir opiniões e avaliações de uma ampla gama de jogadores, o Gamebald pode ajudar outros usuários a tomar decisões informadas sobre quais jogos jogar, levando em consideração as opiniões da comunidade. Isso ajuda a criar confiança e transparência dentro da comunidade, ao mesmo tempo em que fornece aos desenvolvedores de jogos um feedback valioso sobre seus produtos.
-
-Em resumo, o Gamebald busca resolver o problema da dispersão de informações e da falta de interação social em torno dos jogos, oferecendo uma plataforma centralizada para a comunidade de jogadores. Isso torna mais fácil e eficiente para os jogadores compartilharem suas experiências, descobrirem novos jogos e se conectarem com outros jogadores, melhorando sua experiência geral de jogo.
-
